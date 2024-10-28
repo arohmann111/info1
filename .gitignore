@@ -1,0 +1,75 @@
+# Eclipse project files
+/.settings/
+/.project
+.classpath
+
+# Eclipse working directories
+/.metadata/
+/bin/
+/tmp/
+/target/
+/out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven / Gradle build files
+target/
+build/
+*.war
+*.ear
+
+# IDE files
+/.idea/
+/*.iml
+.vscode/
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# MacOS specific files
+._*
+
+# Windows specific files
+ehthumbs.db
+Desktop.ini
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Cache files
+.gradle/
+.m2/
+
+# Java-specific files
+*.class
+
+
+# Ignore test results
+/test-output/
+test-output/
+*.class
+*.result
+
+# Ignore IDE and build tool-specific settings
+.gradle/
+build/
+dist/
+Generated/
